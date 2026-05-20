@@ -30,7 +30,5 @@ while count <= 0:
         
         print ("[LỖI] Số lượng không hợp lệ! Vui lòng nhập một con số lớn hơn 0.")
     
-print (
-    f"[THÀNH CÔNG] Đã ghi nhận yêu cầu cấp phát tài sản "
-    f"cho {count} nhân sự mới!"
-)
+print (f"[THÀNH CÔNG] Đã ghi nhận yêu cầu cấp phát tài sản "
+       f"cho {count} nhân sự mới!")
